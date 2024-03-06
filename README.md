@@ -1,7 +1,7 @@
 # Cook-App
 Aplicativo que sugere receitas baseadas nos ingredientes selecionados
 
-<img src="./src/assets/gif.gif" width="200">
+<img src="./cook/src/assets/gif.gif" width="200">
 
 ## :closed_book: Requisitos ##
 
